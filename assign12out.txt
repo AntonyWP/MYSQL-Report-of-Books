@@ -1,0 +1,137 @@
+Antony Pierson Sectin 1
+
+ Title:  A Deepness in the Sky
+ Price:  $7.19
+Author:  Vernor Vintage
+
+ Title:  Magic Terror
+ Price:  $7.99
+Author:  Peter Straub
+
+ Title:  The Stranger
+ Price:  $8.00
+Author:  Albert Camus
+
+ Title:  Venice
+ Price:  $24.50
+Author:  Gary Wills
+
+ Title:  Second Wind
+ Price:  $24.95
+Author:  Dick Francis
+
+ Title:  The Edge
+ Price:  $6.99
+Author:  Dick Francis
+
+ Title:  Dreamcatcher: A Novel
+ Price:  $19.60
+Author:  Stephen King
+
+ Title:  Treasure Chests
+ Price:  $24.46
+Author:  Randy O'Rourke
+Author:  Lon Schleining
+
+ Title:  Beloved
+ Price:  $12.95
+Author:  Toni Morrison
+
+ Title:  Harry Potter and the Prisoner of Azkaban
+ Price:  $13.96
+Author:  J.K. Rowling
+
+ Title:  Van Gogh and Gauguin
+ Price:  $21.00
+Author:  Bradley Collins
+Author:  Bradley Collins, Jr.
+
+ Title:  Of Mice and Men
+ Price:  $6.95
+Author:  John Steinbeck
+
+ Title:  Electric Light
+ Price:  $14.00
+Author:  Seamus Heaney
+
+ Title:  Group: Six People in Search of a Life
+ Price:  $10.40
+Author:  Paul Solotaroff
+
+ Title:  Nine Stories
+ Price:  $5.99
+Author:  J.D. Salinger
+
+ Title:  The Soul of a New Machine
+ Price:  $11.16
+Author:  Tracy Kidder
+
+ Title:  Travels with Charley
+ Price:  $7.95
+Author:  John Steinbeck
+
+ Title:  Catch-22
+ Price:  $12.00
+Author:  Joseph Heller
+
+ Title:  Jazz
+ Price:  $12.95
+Author:  Toni Morrison
+
+ Title:  Band of Brothers
+ Price:  $9.60
+Author:  Stephen E. Ambrose
+
+ Title:  A Guide to SQL
+ Price:  $37.95
+Author:  Philip Pratt
+
+ Title:  Franny and Zooey
+ Price:  $5.99
+Author:  J.D. Salinger
+
+ Title:  East of Eden
+ Price:  $12.95
+Author:  John Steinbeck
+
+ Title:  Harry Potter and the Goblet of Fire
+ Price:  $18.16
+Author:  J.K. Rowling
+
+ Title:  The Fall
+ Price:  $8.00
+Author:  Albert Camus
+
+ Title:  Godel, Escher, Bach
+ Price:  $14.00
+Author:  Douglas R. Hofstadter
+
+ Title:  When Rabbit Howls
+ Price:  $6.29
+Author:  Truddi Chase
+
+ Title:  Black House
+ Price:  $18.81
+Author:  Peter Straub
+Author:  Stephen King
+
+ Title:  Song of Solomon
+ Price:  $14.00
+Author:  Toni Morrison
+
+ Title:  The Grapes of Wrath
+ Price:  $13.00
+Author:  John Steinbeck
+
+ Title:  Slay Ride
+ Price:  $6.99
+Author:  Dick Francis
+
+ Title:  The Catcher in the Rye
+ Price:  $5.99
+Author:  J.D. Salinger
+
+ Title:  To Kill a Mockingbird
+ Price:  $18.00
+Author:  Harper Lee
+
