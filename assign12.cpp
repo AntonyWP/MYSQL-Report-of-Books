@@ -1,7 +1,7 @@
 /*
 Antony Pierson
 Section 1
-Assignment 12 - MSQL in C++
+Assignment 12 - MySQL in C++
 Due: 12/5/2018
 Function: Prints a report of Book titles, price, and author(s) from a database.
 */
@@ -11,8 +11,8 @@ Function: Prints a report of Book titles, price, and author(s) from a database.
 #include <iostream>
 using namespace std;
 #define SERVER "courses"
-#define USER "z1624182"
-#define PASSWORD "1992Jul15"
+#define USER ""
+#define PASSWORD ""
 #define DATABASE "henrybooks"
 
 int main()
